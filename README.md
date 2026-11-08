@@ -18,6 +18,3 @@
 ![Customer Report](Images/Credit_Card_Customer_Report.png)
 ![Transaction Report](Images/Credit_Card_Transaction_Report.png) 
 
-## Files
-- `Credit_card_project.pbix`: dashboard file
-- `screenshots/`: report page images
