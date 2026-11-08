@@ -15,8 +15,8 @@
 8. **TX, NY and CA contribute about 70% of revenue** (13M each).
 
 ## Dashboard Preview
-![Customer Report](screenshots/Credit_Card_Customer_Report.png)
-![Transaction Report](screenshots/Credit_Card_Transaction_Report.png)
+![Customer Report](Images/Credit_Card_Customer_Report.png)
+![Transaction Report](Images/Credit_Card_Transaction_Report.png)
 
 ## Files
 - `Credit_card_project.pbix`: dashboard file
